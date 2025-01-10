@@ -42,6 +42,10 @@ body {
   overflow-y: scroll;
   font-family: 'Source Sans Pro', sans-serif; }
 
+.mx{
+  margin:auto 2%;
+}
+
 a {
   text-decoration: none;
   color: inherit; }
